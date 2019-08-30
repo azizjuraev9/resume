@@ -1,0 +1,21 @@
+.resume-header{
+    /*padding: 90px;*/
+    padding: 0;
+}
+
+.resume-header img{
+    background-color: transparent;
+    border-color: #0f0f0f;
+    height: 150px;
+}
+h2,h3,h4 {
+    margin-top: 15px;
+}
+.resume-view .page-header{
+    color: #2791d6;
+}
+.experience{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #f2f2f2;
+}
